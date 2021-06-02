@@ -1,2 +1,2 @@
 # Cpp-workshop
-All the solution of the exercises of the c++ workshop course
+All the solutions of the exercises of the c++ workshop course

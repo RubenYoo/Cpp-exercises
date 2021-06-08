@@ -17,7 +17,7 @@ Family::Family(int famNum, char str[20], int memNum, int tel)
 		setTelephone(tel);
 		for (int i = 0; i < 6; i++)
 		{
-			activities[i] = true;
+			activities[i] = false;
 		}
 	}
 	catch (const char* stri)
